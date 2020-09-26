@@ -34,4 +34,3 @@ function Check_Zero(mytime){
     return mytime < 10 ? "0"+mytime : mytime;
 
 }
-
